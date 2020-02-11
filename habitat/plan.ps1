@@ -16,7 +16,6 @@ $pkg_name="sample-node-app-windows"
 $pkg_origin="your_origin"
 $pkg_version="1.0.0"
 $pkg_deps=@("core/node")
-$pkg_svc_user="Administrator"
 
 # Habitat provides you with a number of built-in "callbacks" to use
 # in the course of your build, all of which are explained in the docs
